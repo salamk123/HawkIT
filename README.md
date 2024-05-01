@@ -14,6 +14,6 @@ HawkIT - это веб-приложение, написанное на C# с и�
 	Microsoft.EntityFrameworkCore.Tools 7.0.10
 	Npgsql.EntityFrameworkCore.PostgreSQL 7.0.4
 ## Авторы
-	- [Mamatkhan Magomednabiyev](https://github.com/MAMATKHAN) - Backend разработчик
-	- [Salam Kairbekov](https://github.com/salamk123) - Frontend разработчик
-	- [Ramazanov Magomedrasul]() - Designer
+- [Mamatkhan Magomednabiyev](https://github.com/MAMATKHAN) - Backend разработчик
+- [Salam Kairbekov](https://github.com/salamk123) - Frontend разработчик
+- [Ramazanov Magomedrasul]() - Designer
