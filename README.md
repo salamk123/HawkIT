@@ -3,7 +3,7 @@
 # Состояние проекта
 	Завершен.
 # Инструкция для запуска
-  1. Склонируйте репозиторий: git clone https://github.com/MAMATKHAN/HawkIT.git
+  1. Склонируйте репозиторий: git clone https://github.com/salamk123/HawkIT.git
   2. Перейдите в директорию проекта: cd HawkIT
   3. Установите необходимые зависимости: dotnet restore
   4. Запустите проект: dotnet run
