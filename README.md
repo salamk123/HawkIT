@@ -15,5 +15,5 @@ Microsoft.EntityFrameworkCore.Tools 7.0.10
 Npgsql.EntityFrameworkCore.PostgreSQL 7.0.4
 # Авторы
 [Salam Kairbekov](https://github.com/salamk123) - Frontend разработчик
-[Mamatkhan Magomednabiyev](https://github.com/MAMATKHAN) - Backend разработчик
-[Ramazanov Magomedrasul]() - Designer
+ [Mamatkhan Magomednabiyev](https://github.com/MAMATKHAN) - Backend разработчик
+ [Ramazanov Magomedrasul]() - Designer
