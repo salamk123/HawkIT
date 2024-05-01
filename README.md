@@ -10,10 +10,10 @@ HawkIT - это веб-приложение, написанное на C# с и�
   4. Запустите проект: dotnet run
   5. Перейдите по адресу http://localhost:5000 в вашем браузере.
 ## Требования к системе
-	.NET Core SDK 6.0
-	Microsoft.EntityFrameworkCore.Tools 7.0.10
-	Npgsql.EntityFrameworkCore.PostgreSQL 7.0.4
+.NET Core SDK 6.0
+Microsoft.EntityFrameworkCore.Tools 7.0.10
+Npgsql.EntityFrameworkCore.PostgreSQL 7.0.4
 ## Авторы
-- [Mamatkhan Magomednabiyev](https://github.com/MAMATKHAN) - Backend разработчик
-- [Salam Kairbekov](https://github.com/salamk123) - Frontend разработчик
-- [Ramazanov Magomedrasul]() - Designer
+[Mamatkhan Magomednabiyev](https://github.com/MAMATKHAN) - Backend разработчик
+[Salam Kairbekov](https://github.com/salamk123) - Frontend разработчик
+[Ramazanov Magomedrasul]() - Designer
